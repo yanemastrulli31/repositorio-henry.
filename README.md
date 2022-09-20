@@ -1,3 +1,3 @@
 # repositorio-henry.
-
-hola mi nombre es Yanella y soy nueva en henry
+me llamo yanella
+mi meta es lograr el desafio de henry
